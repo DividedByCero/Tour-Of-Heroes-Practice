@@ -13,7 +13,7 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
     HeroDetailComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
     FormsModule
   ],
   providers: [],
